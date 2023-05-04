@@ -3,6 +3,6 @@
 
 This repository contains the following folders:
 - [Repository_Datasets](https://github.com/kariorth1/City-Spaces/tree/main/Repository_Datasets)
-- [Protocol_Report]
+- [Protocol_Report](https://github.com/kariorth1/City-Spaces/tree/main/Repository_Datasets)
 
 To view the complete protocol report for the City Spaces repository, see the [City Spaces Gitbook](https://app.gitbook.com/o/1XBEBlSzxCv4R79Didq2/s/UF6UHoJkgePeNSIi0lFk/).
