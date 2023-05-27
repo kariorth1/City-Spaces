@@ -1,5 +1,5 @@
 # City Spaces Repository
-## open source data repository regarding privately owned public open spaces in Seattle, New York City, and San Francisco
+## open source data repository regarding privately owned public open spaces in municipal areas
 
 This repository contains the following folders and files:
 - [Repository_Datasets](https://github.com/kariorth1/City-Spaces/tree/main/Repository_Datasets)
